@@ -64,7 +64,7 @@ class TrieNode {
     }
 }
 
-public class Trie {
+class Trie {
     private TrieNode root;
     public Trie() {
         root = new TrieNode();

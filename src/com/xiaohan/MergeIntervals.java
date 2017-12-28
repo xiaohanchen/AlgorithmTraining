@@ -10,8 +10,15 @@ public class MergeIntervals {
         Interval i2 = new Interval(5,9);
         Interval i3 = new Interval(3,5);
         MergeIntervals mergeIntervals = new MergeIntervals();
-        mergeIntervals.merge(Arrays.asList(i1,i2,i3));
+//        mergeIntervals.merge(Arrays.asList(i1,i2,i3));
+
+
+
+
+        mergeIntervals.insert( Arrays.asList(new Interval(1,3), new Interval(6,9)), new Interval(2,5) );
     }
+
+
 
     public List<Interval> merge(List<Interval> intervals) {
         if(intervals == null || intervals.size() == 0){
@@ -54,7 +61,114 @@ public class MergeIntervals {
 
         return mergedInterval;
     }
+
+
+
+
+    /*  insert interval to sorted merged intervals    */
+    /*  insert interval to sorted merged intervals    */
+    /*  insert interval to sorted merged intervals    */
+
+
+    public List<Interval> insert(List<Interval> intervals, Interval newInterval) {
+
+        List<Interval> mergedIntervals = new ArrayList<>();
+        int newIntervalStart = newInterval.start;
+        int newIntervalEnd = newInterval.end;
+        boolean isStartAssigned = false;
+        int mergedStart = 0;
+        int mergedEnd = 0;
+
+        if(intervals.size() == 0){
+            return Arrays.asList(newInterval);
+        }
+
+        if( newIntervalStart > intervals.get(intervals.size()-1).end){
+            intervals.add(newInterval);
+            return intervals;
+        }
+
+        if(newIntervalEnd < intervals.get(0).start){
+            intervals.add(0, newInterval);
+        }
+
+        for(int i=0; i < intervals.size(); i++){
+            int tempStart = intervals.get(i).start;
+            int tempEnd = intervals.get(i).end;
+            if( tempStart <= newIntervalStart && newIntervalStart <= tempEnd){
+                mergedStart = tempStart;
+                isStartAssigned = true;
+            }else if(newIntervalStart < tempStart && !isStartAssigned){
+                mergedStart = newIntervalStart;
+                isStartAssigned = true;
+            }
+
+            if( tempStart <= newIntervalEnd && newIntervalEnd <= tempEnd){
+                mergedEnd = tempEnd;
+                mergedIntervals.add(new Interval(mergedStart, mergedEnd));
+                if(i +1 < intervals.size()){
+                    mergedIntervals.addAll(intervals.subList(i+1, intervals.size()));
+                }
+                return mergedIntervals;
+            }else if(newIntervalEnd < tempStart){
+                mergedEnd = newIntervalEnd;
+                mergedIntervals.add(new Interval(mergedStart, mergedEnd));
+                if(i < intervals.size()){
+                    mergedIntervals.addAll(intervals.subList(i, intervals.size()));
+                }
+                return mergedIntervals;
+            }
+
+            if(!isStartAssigned){
+                mergedIntervals.add(intervals.get(i));
+            }
+        }
+
+        mergedIntervals.add(new Interval(mergedStart, newInterval.end));
+        return mergedIntervals;
+    }
+
+
+
+    public List<Interval> insertQuick(List<Interval> intervals, Interval newInterval) {
+
+
+        /*1. Find all intervals whose end is smaller than new interval
+        * 2. Find all intervals whose start is larger than new interval */
+
+
+        //!!!!!!!!!;ppppppll
+        List<Interval> result = new LinkedList<>();
+        int i = 0;
+        // add all the intervals ending before newInterval starts
+        while (i < intervals.size() && intervals.get(i).end < newInterval.start)
+            result.add(intervals.get(i++));
+        // merge all overlapping intervals to one considering newInterval
+        while (i < intervals.size() && intervals.get(i).start <= newInterval.end) {
+            newInterval = new Interval( // we could mutate newInterval here also
+                    Math.min(newInterval.start, intervals.get(i).start),
+                    Math.max(newInterval.end, intervals.get(i).end));
+            i++;
+        }
+        result.add(newInterval); // add the union of intervals we got
+        // add all the rest
+        while (i < intervals.size()) result.add(intervals.get(i++));
+        return result;
+    }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 class Interval {
