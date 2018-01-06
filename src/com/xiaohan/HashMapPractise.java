@@ -23,6 +23,14 @@ public class HashMapPractise {
         Main.print(hashmap.get(2));
 
 
+        HashMap<Integer, Integer> hashmapInt = new HashMap<>();
+        hashmapInt.put(1,2);
+        hashmapInt.put(1,3);
+        Main.print(hashmapInt.get(1));
+
+
+
+
 
     }
 }

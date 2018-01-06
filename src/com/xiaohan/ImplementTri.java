@@ -4,7 +4,7 @@ import java.util.List;
 
 public class ImplementTri {
 
-
+//ALSO CALLED PREFIX TREE
 
 }
 
