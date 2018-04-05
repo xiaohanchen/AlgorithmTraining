@@ -2,86 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ead147c-5c5a-4e99-b8f5-2d664336d50d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CrackInterview/ChatServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/CountOfSmallerNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/CountRangeSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/KthSmallestInBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/PermutationString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/ReverseString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/SudokuChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/leetcode/SummaryRanges.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/AgeComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/AstarSearchAlgo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/AstarSearchAlgo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/AstarSearchAlgo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/BinaryTree$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/BinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/CalculatorWithBracket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/CloneUndirectedGraph$UndirectedGraphNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/CloneUndirectedGraph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/ComparatorPractise$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/ComparatorPractise.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/DPRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/Edge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/FindPeakValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/GenerateParenthesis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/GroupShiftedString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/HashMapPractise$AObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/HashMapPractise.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/LRUCache$DLinkedNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/LRUCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/LetterCombinationOfPhoneNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/LinkedHashmapPractice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/LinkedListPractise.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/LongestConsecutiveSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/MedianOfTwoSorted.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/MinPathSumInTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/NextPermutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/NumIsland.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/Quicksort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/ReturnObj.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/StringToInt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/UniqueSubString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/WordBreak$CheckNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/WordBreak$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmsTraining/com/xiaohan/WordBreak.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/AstarSearchAlgo.java" afterPath="$PROJECT_DIR$/src/com/leetcode/AstarSearchAlgo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/BinaryTree.java" afterPath="$PROJECT_DIR$/src/com/leetcode/BinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/BinaryTreeIterator.java" afterPath="$PROJECT_DIR$/src/com/leetcode/BinaryTreeIterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/CalculatorWithBracket.java" afterPath="$PROJECT_DIR$/src/com/leetcode/CalculatorWithBracket.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/CanIWin.java" afterPath="$PROJECT_DIR$/src/com/leetcode/CanIWin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/CherryPicker.java" afterPath="$PROJECT_DIR$/src/com/leetcode/CherryPicker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/CloneUndirectedGraph.java" afterPath="$PROJECT_DIR$/src/com/leetcode/CloneUndirectedGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/ClosestValueInBST.java" afterPath="$PROJECT_DIR$/src/com/leetcode/ClosestValueInBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/ComparatorPractise.java" afterPath="$PROJECT_DIR$/src/com/leetcode/ComparatorPractise.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/FindPeakValue.java" afterPath="$PROJECT_DIR$/src/com/leetcode/FindPeakValue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/GenerateParenthesis.java" afterPath="$PROJECT_DIR$/src/com/leetcode/GenerateParenthesis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/GroupShiftedString.java" afterPath="$PROJECT_DIR$/src/com/leetcode/GroupShiftedString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/HashMapPractise.java" afterPath="$PROJECT_DIR$/src/com/leetcode/HashMapPractise.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/ImplementTri.java" afterPath="$PROJECT_DIR$/src/com/leetcode/ImplementTri.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/LRUCache.java" afterPath="$PROJECT_DIR$/src/com/leetcode/LRUCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/LetterCombinationOfPhoneNumber.java" afterPath="$PROJECT_DIR$/src/com/leetcode/LetterCombinationOfPhoneNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/LinkedHashmapPractice.java" afterPath="$PROJECT_DIR$/src/com/leetcode/LinkedHashmapPractice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/LinkedListPractise.java" afterPath="$PROJECT_DIR$/src/com/leetcode/LinkedListPractise.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/LongestConsecutiveSequence.java" afterPath="$PROJECT_DIR$/src/com/leetcode/LongestConsecutiveSequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/Main.java" afterPath="$PROJECT_DIR$/src/com/leetcode/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/MedianOfTwoSorted.java" afterPath="$PROJECT_DIR$/src/com/leetcode/MedianOfTwoSorted.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/MergeIntervals.java" afterPath="$PROJECT_DIR$/src/com/leetcode/MergeIntervals.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/MinPathSumInTriangle.java" afterPath="$PROJECT_DIR$/src/com/leetcode/MinPathSumInTriangle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/NextPermutation.java" afterPath="$PROJECT_DIR$/src/com/leetcode/NextPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/NumIsland.java" afterPath="$PROJECT_DIR$/src/com/leetcode/NumIsland.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/Permutation.java" afterPath="$PROJECT_DIR$/src/com/leetcode/Permutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/Quicksort.java" afterPath="$PROJECT_DIR$/src/com/leetcode/Quicksort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/Skyline.java" afterPath="$PROJECT_DIR$/src/com/leetcode/Skyline.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/StringToInt.java" afterPath="$PROJECT_DIR$/src/com/leetcode/StringToInt.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/UniqueSubString.java" afterPath="$PROJECT_DIR$/src/com/leetcode/UniqueSubString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/WordBreak.java" afterPath="$PROJECT_DIR$/src/com/leetcode/WordBreak.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/xiaohan/WordSearch.java" afterPath="$PROJECT_DIR$/src/com/leetcode/WordSearch.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/leetcode/KthSmallestInBST.java" afterPath="$PROJECT_DIR$/src/com/leetcode/KthSmallestInBST.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,8 +62,8 @@
       <file leaf-file-name="KthSmallestInBST.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/leetcode/KthSmallestInBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+            <state relative-caret-position="450">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -242,10 +164,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="725" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="44" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1458" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -311,7 +234,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SummaryRanges">
+  <component name="RunManager" selected="Application.KthSmallestInBST">
+    <configuration name="KthSmallestInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.KthSmallestInBST" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmsTraining" />
+      <envs />
+    </configuration>
     <configuration name="PermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -339,25 +281,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.leetcode.ReverseString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmsTraining" />
-      <envs />
-    </configuration>
-    <configuration name="Skyline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Skyline" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -423,19 +346,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Skyline" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SudokuChecker" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ReverseString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PermutationString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SummaryRanges" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SudokuChecker" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReverseString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PermutationString" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SummaryRanges" />
+      <item index="4" class="java.lang.String" itemvalue="Application.KthSmallestInBST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SummaryRanges" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PermutationString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ReverseString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SudokuChecker" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Skyline" />
+        <item index="0" class="java.lang.String" itemvalue="Application.KthSmallestInBST" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SummaryRanges" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PermutationString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ReverseString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SudokuChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515243616939</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2 Apr">
+      <created>1522689778456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522689778456</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -491,7 +421,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
+    <frame x="44" y="-1057" width="1458" height="1011" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -502,17 +433,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25079367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22213247" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19420904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41587302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532751" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -521,13 +452,40 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="using sort, then Merge. Was thinking of using Hashmap, but that requires search through the hashmap to find proper start" />
     <MESSAGE value="6 Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 Jan" />
+    <MESSAGE value="2 Apr" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Apr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -676,8 +634,14 @@
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/KthSmallestInBST.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="106" />
+      <option name="time" value="116" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1039,8 +1003,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/KthSmallestInBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        <state relative-caret-position="450">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding />
         </state>
       </provider>
