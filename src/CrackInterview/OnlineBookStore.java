@@ -1,4 +1,4 @@
-package MultiThreading;
+package CrackInterview;
 
 import java.util.ArrayList;
 import java.util.HashMap;

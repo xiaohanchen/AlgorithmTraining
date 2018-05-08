@@ -17,6 +17,8 @@ public class LinkedListPractise {
 //        Main.print(linkedList.getLast());
         linkedList.addFirst(4);
         linkedList.remove(Integer.valueOf(2)); //Deletion in the linkedList is O(n)
+//        linkedList
+//        poll, peek, push,
 
         Iterator<Integer> iterator = linkedList.iterator();   //illegal to add items after the creation of iterator
         while(iterator.hasNext()){
